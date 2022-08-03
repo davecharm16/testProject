@@ -14,6 +14,7 @@ const App = () => {
       <Text>   Wth </Text>
       <Text>   Wth </Text>
       <Text>   Wth </Text>
+      <Input placeholder = {"hello"}/>
       <Text>   Wth </Text>
       <Text>   Wth </Text>
       <Text>   Wth </Text>
