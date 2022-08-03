@@ -6,7 +6,11 @@ import {
 
 const App = () => {
     return ( 
-    <Text> Test Hello </Text>
+    <View>
+      <Text> Test Hello  </Text>
+      <Text>   rogena </Text>
+    </View>
+    
     );
 };
 
