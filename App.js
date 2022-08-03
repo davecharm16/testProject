@@ -6,7 +6,7 @@ import {
 
 const App = () => {
     return ( 
-    <Text > Test Hello < /Text>
+    <Text> Test Hello </Text>
     );
 };
 
