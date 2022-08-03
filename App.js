@@ -18,6 +18,7 @@ const App = () => {
       <Text>   Wth </Text>
       <Text>   Wth </Text>
       <Text>   Wth </Text>
+      <Text>NyeNYeNYeElen</Text>
 
     </View>
     );
