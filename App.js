@@ -9,6 +9,7 @@ const App = () => {
     <View>
       <Text> Test Hello  </Text>
       <Text>   rogena </Text>
+      <Text>   tama ba </Text>
     </View>
     
     );
