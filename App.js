@@ -8,6 +8,7 @@ const App = () => {
     return ( 
     <View>
       <Text> Test Hello  </Text>
+      <Text>hatdog boom</Text>
 
     </View>
     );
